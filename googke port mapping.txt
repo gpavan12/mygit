@@ -1,0 +1,7 @@
+port mapping of google cloud account
+=============================================
+gcloud compute firewall-rules create k8srules --allow tcp:8080
+
+github link
+===============================
+https://github.com/IntelliqDevops/Kubernetes9
